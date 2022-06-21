@@ -1,0 +1,2 @@
+# AirseaGUI
+The project built with a GUI with Java. This airline reservation system helps Airline Company to maintain the efficient scheduling of different  flights, routes. This system provides the different information to the passenger like flight no, flight time, route, price  etc. It provides to the passenger the ability to book a flight and pay it It also provides the information about the available seat in each class such as economy as well as first  class. 
